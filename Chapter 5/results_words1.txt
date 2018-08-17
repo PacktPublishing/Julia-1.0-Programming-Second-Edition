@@ -1,0 +1,10 @@
+Word: frequency 
+ 
+be: 2 
+is: 1 
+not: 1 
+or: 1 
+question: 1 
+that: 1 
+the: 1 
+to: 2
