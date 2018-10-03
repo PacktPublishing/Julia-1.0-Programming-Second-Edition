@@ -35,7 +35,7 @@ end
 **Following is what you need for this book:**
 This book is intended for data scientists and all those who work on technical and scientific computation projects. It will get you up and running quickly with Julia to start simplifying your projects' applications. The book assumes you already have some basic working knowledge of a high-level dynamic language such as MATLAB, R, Python, or Ruby.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
