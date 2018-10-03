@@ -41,8 +41,6 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------ | ----------------------------------- |
 | All | Julia v1.0 | Windows, Linux, macOS |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
-
 ### Related products
 * Learning Julia [[Packt]](https://www.packtpub.com/application-development/learning-julia?utm_source=github&utm_medium=repository&utm_campaign=9781785883279) [[Amazon]](https://www.amazon.com/dp/1785883275)
 
