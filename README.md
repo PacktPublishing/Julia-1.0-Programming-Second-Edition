@@ -51,15 +51,15 @@ With the following software and hardware list you can run all code files present
 has been a lecturer in web programming and databases at CVO Antwerpen, a community college in Belgium. He received a Ph.D. in Applied Physics from the University of Antwerp in 1986. He worked for 20 years in the software industry as a developer and consultant in several companies, and for 10 years as project manager at the University Hospital of Antwerp. From 2000 onwards, he switched to partly teaching and partly developing software (at KHM Mechelen, CVO Antwerpen). He also wrote an introductory book in Dutch about developing in Ruby and Rails, Programmeren met Ruby en Rails, by Van Duuren Media. In 2012, he authored a book on the Go programming language, The Way To Go, by IUniverse. He wrote a number of introductory books for new programming languages, notably Dart, Julia, Rust, and Red, all published by Packt.
 
 ## Other books by the authors
-[Learning Dart ](https://www.packtpub.com/web-development/learning-dart?utm_source=github&utm_medium=repository&utm_campaign=9781849697422)
+* [Learning Dart ](https://www.packtpub.com/web-development/learning-dart?utm_source=github&utm_medium=repository&utm_campaign=9781849697422)
 
-[Dart Cookbook](https://www.packtpub.com/web-development/dart-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783989621)
+* [Dart Cookbook](https://www.packtpub.com/web-development/dart-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783989621)
 
-[Getting Started with Julia](https://www.packtpub.com/application-development/getting-started-julia?utm_source=github&utm_medium=repository&utm_campaign=9781783284795)
+* [Getting Started with Julia](https://www.packtpub.com/application-development/getting-started-julia?utm_source=github&utm_medium=repository&utm_campaign=9781783284795)
 
-[Rust Essentials](https://www.packtpub.com/application-development/rust-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781785285769)
+* [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781785285769)
 
-[Learning Dart - Second Edition](https://www.packtpub.com/web-development/learning-dart-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785287626)
+* [Learning Dart - Second Edition](https://www.packtpub.com/web-development/learning-dart-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785287626)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
