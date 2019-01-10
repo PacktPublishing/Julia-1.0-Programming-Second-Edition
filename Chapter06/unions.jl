@@ -38,7 +38,7 @@ VecOrPoint = Union{Vector2D, Point}
 isa(p, VecOrPoint) #> true
 isa(v, VecOrPoint) #> true
 
-+(u::VecOrPoint, v:: VecOrPoint) = VecOrPoint(u.x + v.x, u.y + v.y)
++(u::VecOrPoint, v:: VecOrPoint) = Point(u.x + v.x, u.y + v.y) #> or typeof(u)(u.x + v.x, u.y + v.y) to vary the return type
 +(p, v) #> Point(5.0,7.0)
 
 *(u::VecOrPoint, v:: VecOrPoint) = u.x * v.x + u.y * v.y
